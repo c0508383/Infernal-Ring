@@ -24,3 +24,4 @@ college degrees (We hope it shows!). Thank you so much to the classmates and sta
 - An attack priority mechanic with 5 different levels and clashing with attacks of the same priority.
 - A combo system with damage scaling & proration based on the strength of different attacks.
 - Meter burn mechanics including dash-cancels, airdash-cancels, EX special moves, and more.
+- ...And much more!
