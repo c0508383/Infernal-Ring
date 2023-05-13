@@ -15,7 +15,7 @@ college degrees (We hope it shows!). Thank you so much to the classmates and sta
 ### Features:
 - An original soundtrack composed by dedicated members of the team.
 - Multiple stages, drawn from scratch by our talented team.
-- 2 fully fledged playable characters using hierarchical state machines.
+- 2 fully fledged playable characters implemented using hierarchical state machines.
 - Hand drawn and digitally drawn pixel art graphics for UI components, all character sprites, and all stage sprites.
 - Multiple controller support.
 - Cinematic super attacks.
