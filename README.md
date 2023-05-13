@@ -3,7 +3,7 @@
 ![](images/logo.png)
 
 ### ❓ About
-Infernal Ring is a 2D classic fighting game, with an OST, original artwork, and plethora of unique mechanics.
+Infernal Ring is a 2D classic fighting game in a familiar pixel art style, with an OST, original artwork, and plethora of unique mechanics.
 
 The game takes inspiration from such classic fighting games as Street Fighter, and newer fighting games such as Dragon Ball FighterZ, to make for a truly dynamic experience. The main mechanic of the game,
 Rings, allows players to select among 9 unique playstyles at the beginning of a match, in addition to a color palette swap.
@@ -16,6 +16,7 @@ college degrees (We hope it shows!). Thank you so much to the classmates and sta
 - An original soundtrack composed by dedicated members of the team.
 - Multiple stages, drawn from scratch by our talented team.
 - 2 fully fledged playable characters using hierarchical state machines.
+- Hand drawn and digitally drawn pixel art graphics for UI components, all character sprites, and all stage sprites.
 - Multiple controller support.
 - Cinematic super attacks.
 - Multiple colors for both characters.
