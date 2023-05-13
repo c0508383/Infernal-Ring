@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5504c32c3b4e90444bc32530135b908b, type: 3}
+  m_Name: Palettes_Xonin
+  m_EditorClassIdentifier: 
+  Palettes:
+  - {fileID: 11400000, guid: e5b75531fb719c442b6d0b1660ae599d, type: 2}
+  - {fileID: 11400000, guid: 351cca1f30bf0ad4eb851799caae1421, type: 2}
+  - {fileID: 11400000, guid: e3eff5e8feaae5943a183ff7b2cce0ae, type: 2}
+  - {fileID: 11400000, guid: 1ba084e1075c00e4c9610d77faec4de3, type: 2}
+  - {fileID: 11400000, guid: 70d759af70948824d870b9859ec721bc, type: 2}
+  - {fileID: 11400000, guid: d0e6d949e17251246831ffe471c96581, type: 2}

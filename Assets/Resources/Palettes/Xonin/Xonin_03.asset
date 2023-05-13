@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ee249368ac2c9046a6248e296cbdd79, type: 3}
+  m_Name: Xonin_03
+  m_EditorClassIdentifier: 
+  Name: Xonin_03
+  Colors:
+  - {r: 0.9622642, g: 0.8315543, b: 0.6754005, a: 1}
+  - {r: 0.18867922, g: 0.0060519623, b: 0.0060519623, a: 1}
+  - {r: 0.9241434, g: 0.9245283, b: 0.038376607, a: 1}
+  - {r: 0.13207549, g: 0.13139682, b: 0.13008189, a: 1}
+  - {r: 0.3773585, g: 0.040583815, b: 0.040583815, a: 1}
+  - {r: 0.3773585, g: 0.054823767, b: 0.054823767, a: 1}
+  - {r: 0.8301887, g: 0.70776135, b: 0, a: 1}
+  - {r: 0.8679245, g: 0.61015576, b: 0.060590927, a: 1}
+  - {r: 0.8113208, g: 0.72873205, b: 0.09490919, a: 1}
+  - {r: 1, g: 0.11792451, b: 0.31591612, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}

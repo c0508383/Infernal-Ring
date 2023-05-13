@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4f3702da929b2e4384676cdb08a28c1, type: 3}
+  m_Name: Light Hit
+  m_EditorClassIdentifier: 
+  Effects:
+  - {fileID: 8300000, guid: 2625e0bf89d17ae47ab1fc49a0ba38f0, type: 3}
+  - {fileID: 8300000, guid: a554d6be2344745438b62f468fb032c2, type: 3}
+  - {fileID: 8300000, guid: 9299566dc101cd0409c39634e8abadd3, type: 3}
+  - {fileID: 8300000, guid: c428610a1ad9f6c4cb6a5ee62e9ec155, type: 3}
+  - {fileID: 8300000, guid: f0c8a2f76ee70ad41b8d107b3ada2fc3, type: 3}
+  - {fileID: 8300000, guid: 81760b992da8eb44fa6f0421fa223ba8, type: 3}
+  uniqueID: 10

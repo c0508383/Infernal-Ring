@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4f3702da929b2e4384676cdb08a28c1, type: 3}
+  m_Name: Wall Bounce
+  m_EditorClassIdentifier: 
+  Effects:
+  - {fileID: 8300000, guid: 3da6a2f5dd7b4be429e62dbf31df6d8e, type: 3}
+  uniqueID: 65

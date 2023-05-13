@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ee249368ac2c9046a6248e296cbdd79, type: 3}
+  m_Name: Arracadas_05
+  m_EditorClassIdentifier: 
+  Name: Arracadas_05
+  Colors:
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0.1981132, g: 0, b: 0.04607286, a: 1}
+  - {r: 0.084726185, g: 0.052198302, b: 0.4811321, a: 1}
+  - {r: 0.6603774, g: 0.33594143, b: 0.07164473, a: 1}
+  - {r: 0.20392157, g: 0.20392157, b: 0.20392157, a: 1}
+  - {r: 0.16470589, g: 0.4745098, b: 0, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.19119221, g: 0.1981132, b: 0, a: 1}
+  - {r: 0.24915583, g: 0.06710574, b: 0.49056602, a: 1}
+  - {r: 0.17742096, g: 0, b: 0.2830189, a: 1}
+  - {r: 0.19528791, g: 0.08036668, b: 0.3962264, a: 1}
+  - {r: 0.72156864, g: 0.011764706, b: 0.74509805, a: 1}
