@@ -3,7 +3,7 @@
 <img src="images/logo.png" width="700" height="200"/>
 
 ### ❓ About
-Infernal Ring is a 2D classic fighting game in a familiar pixel art style, with an OST, original artwork, and plethora of unique mechanics created in the Unity game engine.
+Infernal Ring is a classic 2D fighting game created in the Unity game engine with a familiar pixel art style, sporting an OST, original artwork, and a plethora of gameplay mechanics.
 
 The game takes inspiration from such classic fighting games as Street Fighter, and newer fighting games such as Dragon Ball FighterZ, to make for a truly dynamic experience. The main mechanic of the game,
 Rings, allows players to select among 9 unique playstyles at the beginning of a match, in addition to a color palette swap.
