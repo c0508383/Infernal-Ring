@@ -1,6 +1,6 @@
 
 ## TEAM RITUAL PRESENTS
-<img src="images/logo.png" width="960" height="250"/>
+<img src="images/logo.png" width="700" height="250"/>
 
 ### ❓ About
 Infernal Ring is a 2D classic fighting game in a familiar pixel art style, with an OST, original artwork, and plethora of unique mechanics.
