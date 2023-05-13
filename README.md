@@ -19,9 +19,10 @@ college degrees (We hope it shows!). Thank you so much to the classmates and sta
 - Hand drawn and digitally drawn pixel art graphics for UI components, all character sprites, and all stage sprites.
 - Multiple controller support.
 - Cinematic super attacks.
-- Multiple colors for both characters.
-- 9 different ways for characters to be played using the Ring system.
+- 9 different ways for characters to be played using the Ring system and multiple colors for both characters.
+- Several different attacks with unique frame data, dealing different amounts of damage, hitstun, and blockstun.
 - An attack priority mechanic with 5 different levels and clashing with attacks of the same priority.
 - A combo system with damage scaling & proration based on the strength of different attacks.
+- Combo extending mechanics such as ground and wall bounces, sliding and hard knockdowns, and double jump cancels.
 - Meter burn mechanics including dash-cancels, airdash-cancels, EX special moves, and more.
 - ...And much more!
