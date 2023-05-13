@@ -14,9 +14,12 @@ college degrees (We hope it shows!). Thank you so much to the classmates and sta
 
 ### Features:
 - An original soundtrack composed by dedicated members of the team.
-- Multiple stages, drawn from scratch by our talented team
-- 2 fully fledged playable characters.
+- Multiple stages, drawn from scratch by our talented team.
+- 2 fully fledged playable characters using hierarchical state machines.
 - Multiple controller support.
 - Cinematic super attacks.
 - Multiple colors for both characters.
-- 9 different ways to play with the Ring system.
+- 9 different ways for characters to be played using the Ring system.
+- An attack priority mechanic with 5 different levels and clashing with attacks of the same priority.
+- A combo system with damage scaling & proration based on the strength of different attacks.
+- Meter burn mechanics including dash-cancels, airdash-cancels, EX special moves, and more.
