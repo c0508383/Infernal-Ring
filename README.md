@@ -2,6 +2,11 @@
 ## TEAM RITUAL PRESENTS
 <img src="images/logo.png" width="700" height="200"/>
 
+### 🎥 Gameplay Clips
+https://streamable.com/riczbm
+https://streamable.com/dmk3sc
+
+
 ### ❓ About
 Infernal Ring is a classic 2D fighting game created in the Unity game engine with a familiar pixel art style, sporting an OST, original artwork, and a plethora of gameplay mechanics.
 
@@ -26,3 +31,4 @@ college degrees (We hope it shows!). Thank you so much to the classmates and sta
 - Combo extending mechanics such as ground and wall bounces, sliding and hard knockdowns, and double jump cancels.
 - Meter burn mechanics including dash-cancels, airdash-cancels, EX special moves, and more.
 - ...And much more!
+
