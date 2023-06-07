@@ -3,8 +3,8 @@
 <img src="images/logo.png" width="700" height="200"/>
 
 ### 🎥 Gameplay Clips
-![Clip 1](https://streamable.com/riczbm)
-![Clip 2](https://streamable.com/dmk3sc)
+https://streamable.com/riczbm
+https://streamable.com/dmk3sc
 
 
 ### ❓ About
